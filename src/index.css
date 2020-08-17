@@ -1,0 +1,142 @@
+
+@font-face {
+  font-family: Px Grotesk;
+  src: url(fonts/Px-Grotesk-Regular.ttf);
+}
+
+@font-face {
+  font-family: Mermaid;
+  src: url(fonts/Mermaid1001.ttf);
+}
+
+@font-face {
+  font-family: Modak;
+  src: url(fonts/Modak-Regular.ttf);
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Px Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1{
+  font-size: 24px;
+  color: rgb(86, 99, 172);
+  font-weight: normal;
+}
+
+h2{
+  font-size: 16px;
+  color: rgb(86, 99, 172);
+  font-weight: normal;
+}
+
+#content ul{
+  max-width: 600px;
+  list-style-type: square;
+}
+
+
+
+.button{
+  /* font-style: oblique;
+  font-family: Futura, Roboto, sans-serif;
+  font-weight: bold; */
+  font-size: 20px;
+  cursor: pointer;
+
+  top:100px;
+  background-color: transparent;
+  border: none;
+  color: rgb(219, 184, 219);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  /* margin: 4px 2px; */
+}
+
+.button:hover{
+  color: rgb(255, 0, 255);
+}
+
+
+#sidebar {
+  position: fixed;
+  width: 150px;
+  height: 93%;
+  padding: 10px;
+  /* background-color: rgb(156, 170, 34); */
+  /* border-style: solid;
+  border-color: white;
+  border-width: 20px; */
+}
+
+#content {
+  /* position: relative;
+  min-height: 100%; */
+  margin-left: 200px;
+  padding: 20px;
+  /* padding: 20px; */
+  /* border-style: solid;
+  border-color: white;
+  border-width: 20px; */
+}
+
+#content h1{
+  font-size: 24px;
+  color: rgb(86, 99, 172);
+  font-weight: normal;
+}
+
+#content a {
+  color: rgb(86, 99, 172);
+  text-decoration: none;
+}
+
+
+#content a:hover{
+  color: rgb(255, 0, 255);
+}
+
+#name {
+  width:300px;
+}
+
+.container{
+  position: relative;
+  top:100px;
+}
+
+#navbar{
+  top:100px;
+  position: relative;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+#header {
+  left: 50%;
+  transform: translateX(-50%);
+  position: fixed;
+  margin: auto;
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  cursor: pointer;
+  position:fixed;
+  text-align: center;
+}
+
+
+
+img {
+  height: 70%;
+}
+
