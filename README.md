@@ -1,6 +1,6 @@
-### Hi! My name is Zoe Vogelsang 
-### She/her/hers
-### Computer Science student, Barnard College of Columbia University '22 
+### Hi! My name is Zoe Vogelsang :) ✨
+### I'm a Computer Science student at Barnard College of Columbia University '22
+### My pronouns are she/her/hers
 ### you can reach me at zoervogelsang@gmail.com or zrv2000@barnard.edu
 
 <!--
