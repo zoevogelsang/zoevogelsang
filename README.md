@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Zoe Vogelsang 
+### Hi! My name is Zoe Vogelsang 
+### She/her/hers
+### Computer Science student, Barnard College of Columbia University '22 
 ### you can reach me at zoervogelsang@gmail.com or zrv2000@barnard.edu
 
 <!--
