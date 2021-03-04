@@ -1,7 +1,6 @@
 ### Hi! My name is Zoe Vogelsang :) ✨
-### I'm a Computer Science student at Barnard College of Columbia University '22
-### My pronouns are she/her/hers
-### you can reach me at zoervogelsang@gmail.com or zrv2000@barnard.edu
+### I'm a Computer Science student at Barnard College
+### zoervogelsang@gmail.com or zrv2000@barnard.edu
 
 <!--
 **zoevogelsang/zoevogelsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
