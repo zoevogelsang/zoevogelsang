@@ -1,6 +1,5 @@
-### Hi! My name is Zoe Vogelsang :) ✨
-### I'm a Computer Science student at Barnard College
-### zoervogelsang@gmail.com or zrv2000@barnard.edu
+### Zoe Vogelsang :)
+### zoervogelsang@gmail.com
 
 <!--
 **zoevogelsang/zoevogelsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
